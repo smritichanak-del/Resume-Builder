@@ -10,4 +10,4 @@ function Preview({ data }) {
   );
 }
 
-export default Preview;
+export default Preview; 
